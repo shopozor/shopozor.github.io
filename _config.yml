@@ -1,5 +1,9 @@
 title: Le Shopozor
 theme: jekyll-theme-minimal
 description: Vue d'ensemble du projet
-logo: budzi.png
+logo: /assets/img/budzi.png
 show_downloads: false
+languages: ["fr"]
+defaultLang: fr
+gems:
+  - jekyll-octicons
