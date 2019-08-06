@@ -20,19 +20,30 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h2>Spécifications</h2>
+        
+        <table>
+        <tr>
+          <td><a href="http://www.softozor.ch/shopozor/backend/Index.html" target="_blank">Backend</a></td>
+        </tr>
+        <!--tr>
+          <td><a href="http://www.softozor.ch/shopozor/consumer-frontend/Index.html" target="_blank">Frontend Consommateur</a></td>
+        </tr>
+        <tr>
+          <td><a href="http://www.softozor.ch/shopozor/management-frontend/Index.html" target="_blank">Frontend Administration</a></td>
+        </tr-->
+        </table>
 
-        <p class="view">{% octicon mark-github %} <a href="{{ site.github.owner_url }}">Shopozor</a></p>
-        <p class="view">{% octicon mark-github %} <a href="http://github.com/softozor">Softozor</a></p>
       </header>
       <section>
-
-      {{ content }}
-
+        
+        {{ content }}
+        
       </section>
       <footer>
         <p>Ce produit est développé par <a href="http://www.softozor.ch">Softozor</a></p>
         <p>{% octicon mail %} laurent.michel(at)softozor.ch</p>
+        <p>{% octicon mark-github %} <a href="{{ site.github.owner_url }}">Shopozor</a> {% octicon mark-github %} <a href="http://github.com/softozor">Softozor</a></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
