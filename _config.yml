@@ -5,5 +5,5 @@ logo: /assets/img/budzi.png
 show_downloads: false
 languages: ["fr"]
 defaultLang: fr
-gems:
+plugins:
   - jekyll-octicons
