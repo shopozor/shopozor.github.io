@@ -1,7 +1,5 @@
 # Le projet
 
-[Roadmap](./Roadmap.html)
-
 ## Motivation
 
 La société actuelle devient sensible à la problématique du "circuit court", notamment dans le domaine de l’alimentation. Par exemple, une quantité croissante de consommateurs préfère largement se fournir dans les marchés divers et variés du canton à fréquenter les gros distributeurs tels que la Coop ou la Migros. Il existe déjà un certain nombre de possibilités pour se fournir "local" par Internet. Par exemple, il y a <a href="https://labelbleu.ch/" target="_blank">Label Bleu</a>, <a href="https://www.panierlocal.ch/" target="_blank">Panier local</a>, <a href="http://near-buy.ch" target="_blank">Near Buy</a>, <a href="https://ruchequiditoui.ch/" target="_blank">La Ruche qui dit oui</a>, etc. Pour avoir utilisé tous ces systèmes, nous pouvons affirmer qu’ils sont tous très bien, mais ils ont aussi tous certains défauts qui font que finalement le consommateur ne croche pas plus que ça:
