@@ -14,7 +14,7 @@ Nous prétendons que le produit que nous voulons réaliser, "La Budzonnerie", re
 
 ## Motivations de Softozor
 
-![Softozor](/assets/img/softozor-2.jpg)
+![Softozor](/assets/img/softozor-3.jpg)
 
 <a href="http://www.softozor.ch" target="_blank">Softozor</a> est une entité qui regroupe des professionnels passionnés de programmation, d'enseignement et de jeux vidéos. Elle a été créée en juillet 2017 dans le but principal de s'amuser. Un but subsidiaire est de développer des logiciels d'apprentissage de toutes sortes. Dans le projet de la Budzonnerie, les motivations de Softozor sont multiples:
 
