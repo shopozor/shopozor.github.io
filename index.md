@@ -12,6 +12,12 @@ Nous prétendons que le produit que nous voulons réaliser, "La Budzonnerie", re
 
 **Revalorisons notre artisanat local !**
 
+## L'équipe de la Budzonnerie
+
+Carlos Rosa, 31 ans, Portugais Fribourgeois. Papa de deux enfants et mari dévoué à sa famille et à la cause environnementale. Je me suis engagé dans ce Projet dans l'optique de soulager les foyers dans la tâche ménagère que sont les courses et dans la transition vers une consommation plus responsable écologiquement. Avec une interface qui sera simple d'utilisation et intuitive, la Budzonnerie permettra aux Consommateurs d'acheter des Produits locaux et respectueux de l'environnement tout en aidant le tissu économique local à se développer. Et ça c'est mon engagement!
+
+Rémi Grandjean, 36 ans, Fribourgeois. Petit-fils et neveu d'agriculteur, j'ai passé une grande partie de ma vie au contact du monde paysan. Boulanger-Pâtissier de formation, j'aime les produits régionaux et de qualité. Je me suis engagé dans ce projet car je pense aux Producteurs, pour leur permettre de produire et vendre de la qualité à un prix juste en faisant valoir leur travail, un prix qui leur permettra de vivre décemment. L'interface "Producteur" sera intuitive, simple d'utilisation pour permettre aux Producteurs de consacrer leur temps à leurs marchandises. Avec cette plateforme, les Producteurs produisent seulement ce qui a été vendu, ce qui leur permet de réduire le gaspillage de leurs Produits.
+
 ## Motivations de Softozor
 
 <a href="http://www.softozor.ch" target="_blank">Softozor</a> est une entité qui regroupe des professionnels passionnés de programmation, d'enseignement et de jeux vidéos. Elle a été créée en juillet 2017 dans le but principal de s'amuser. Un but subsidiaire est de développer des logiciels d'apprentissage de toutes sortes. Dans le projet de la Budzonnerie, les motivations de Softozor sont multiples:
